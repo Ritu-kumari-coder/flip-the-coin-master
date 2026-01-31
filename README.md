@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://flip-the-coin-master-vercel.vercel.app">
+    <a href="https://flip-the-coin-master-sooty.vercel.app/">
       Demo
     </a>
     <span> | </span>
